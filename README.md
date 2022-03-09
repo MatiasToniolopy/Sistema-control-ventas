@@ -17,7 +17,11 @@ Este sistema esta pensado para administracion, por lo que debera crearse un supe
 # Descripcion del proyecto
 
 _Este sistema permite la gestión y administración total de productos, ventas, clientes y usuarios._
-
+_Pudiendo extraer reportes de ventas en PDF y EXCEL._
+_Imprimir boletas de una venta._
+_Imprimir grafico de ventas, también descargar en PNG, CSV, PDF._
+_Descargar reportes de ventas en un rango de fechas a elección en formato PDF._
+_Asignar permisos a usuarios._
 
 
 
