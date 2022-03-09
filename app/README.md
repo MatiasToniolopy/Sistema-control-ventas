@@ -4,7 +4,7 @@ _Sistema de ventas y control de productos_
 _APLICACION WEB_
 ```
 
-[![screenshot.png](https://i.postimg.cc/Gtvjx8yt/screenshot.png)](https://postimg.cc/0K2m8NZ1)
+[![screenshot.png](https://i.postimg.cc/YCXnDFhy/screenshot.png)](https://postimg.cc/MnQmvv0y)
 
 # Consejo
 ```
