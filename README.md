@@ -29,7 +29,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 Python 2x en adelante
 Git
 Django
-Editor de codido
+Editor de codigo
 ```
 
 ### Instalación 🔧
