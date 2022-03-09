@@ -4,12 +4,12 @@ _Sistema de ventas y control de productos_
 _APLICACION WEB_
 
 # Consejo
-
+```
 _Este sistema esta pensado para administracion, por lo que debera crearse un superusuario para poder ingresar con sus credenciales_
 _1- Ejecuta en comando (python manage.py createsuperuser)_
 _2- Siga las instrucciones de la consola para generar su username, email y password_
 _3- Siga las instrucciones que se mencionan a continuacion..._
-
+```
 # Descripcion del proyecto
 
 
