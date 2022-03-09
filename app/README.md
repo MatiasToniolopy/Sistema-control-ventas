@@ -4,6 +4,8 @@ _Sistema de ventas y control de productos_
 _APLICACION WEB_
 ```
 
+[![screenshot.png](https://i.postimg.cc/Gtvjx8yt/screenshot.png)](https://postimg.cc/0K2m8NZ1)
+
 # Consejo
 ```
 _Este sistema esta pensado para administracion, por lo que debera crearse un superusuario para poder ingresar con sus credenciales_
