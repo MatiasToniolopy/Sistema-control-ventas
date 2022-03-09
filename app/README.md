@@ -16,6 +16,8 @@ Este sistema esta pensado para administracion, por lo que debera crearse un supe
 ```
 # Descripcion del proyecto
 
+_Este sistema permite la gestión y administración total de productos, ventas, clientes y usuarios._
+
 
 
 ## Comenzando 🚀
