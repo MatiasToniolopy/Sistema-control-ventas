@@ -1,17 +1,18 @@
 # Título del Proyecto
 ```
-_Sistema de ventas y control de productos_
-_APLICACION WEB_
+Sistema de ventas y control de productos
+APLICACION WEB
 ```
 
 [![screenshot.png](https://i.postimg.cc/YCXnDFhy/screenshot.png)](https://postimg.cc/MnQmvv0y)
 
 # Consejo
 ```
-_Este sistema esta pensado para administracion, por lo que debera crearse un superusuario para poder ingresar con sus credenciales_
-_1- Ejecuta en comando (python manage.py createsuperuser)_
-_2- Siga las instrucciones de la consola para generar su username, email y password_
-_3- Siga las instrucciones que se mencionan a continuacion..._
+Este sistema esta pensado para administracion, por lo que debera crearse un superusuario para poder ingresar con sus credenciales
+
+1- Ejecuta en comando (python manage.py createsuperuser)
+2- Siga las instrucciones de la consola para generar su username, email y password
+3- Siga las instrucciones que se mencionan a continuacion...
 ```
 # Descripcion del proyecto
 
