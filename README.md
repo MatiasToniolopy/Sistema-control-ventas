@@ -52,7 +52,7 @@ _Y listo, disfruta de la app!!!_
 ## Construido con 🛠️
 
 
-* VSC vode
+* VSC code
 * Python 3x
 * Django 4
 
