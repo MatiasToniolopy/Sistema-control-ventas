@@ -22,6 +22,7 @@ _Imprimir boletas de una venta._
 _Imprimir grafico de ventas, también descargar en PNG, CSV, PDF._
 _Descargar reportes de ventas en un rango de fechas a elección en formato PDF._
 _Asignar permisos a usuarios._
+_Recuperar password mediante envio de emails_
 
 
 
